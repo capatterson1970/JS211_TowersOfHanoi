@@ -1,3 +1,16 @@
+Code Plan - Clayton patterson
+
+Win Condition - The stack of discs must move from the starting pin to the finishing pin and be stacked with the smallest disc on top down to the largest disc on the bottom.
+
+Illegal Move - A larger disc may not be move to a pin in which the larger pin would be stacked on top of the smaller pin.
+
+Legal Move - A disc may move onto an empty pin or a pin that has a larger disc on the pin that it will stack upon.
+
+
+
+
+
+
 # JS211_Towers of Hanoi[![CircleCI](https://circleci.com/gh/AustinCodingAcademy/javascript-workbook/tree/gh-pages.svg?style=svg)](https://circleci.com/gh/AustinCodingAcademy/javascript-workbook/tree/gh-pages)
 
 ![](http://en.gravatar.com/userimage/107370100/a08594145564536138dfaaf072c7b241.png)
